@@ -1,0 +1,20 @@
+body {
+  background-color: #79b764;
+}
+
+.best{
+  color: #0e6fd1;
+  font-size: 50px;
+  font-family: cursive;
+  text-shadow: 2px 2px #ffffff;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.cupcake{
+  font-size: 30px;
+}
